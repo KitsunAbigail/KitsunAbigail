@@ -13,7 +13,7 @@
 █████  █████ ███████████  ███████████     ██████    ████████████
 ```
 I am an avid, learning and curious programmer (and artist) and I go to great lengths to learn the ins and outs of everything.
-I have been programming for around 5 years, modding games for 3 years, and web designing for 1 year (and a half.)
+I have been programming for around 6 years, modding games for 4 years, and web designing for 1 year (and a half.)
 
  Here's a good list of fun facts about me:
 
