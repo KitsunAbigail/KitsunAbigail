@@ -17,8 +17,9 @@ I have been programming for around 6 years, modding games for 4 years, and web d
 
  Here's a good list of fun facts about me:
 
-- 🔧 JavaScript and Rust learner
-- 🐍 Python programmer
+- 🔧 Rust learner
+- 📜 Python and Javascript programmer
+   - And I'm still learning more :3
 - 🐱 Spent way too much time making surprisingly high-quality games on Scratch
   - Sucks that I can't share them because the account it's from is my deadname
 - 🍝 My favourite lunch food is pasta (mainly lasagna and penne pasta)
