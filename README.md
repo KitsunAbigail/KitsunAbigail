@@ -26,16 +26,16 @@ I have been programming for around 6 years, modding games for 4 years, and web d
 - 💜 My favourite colour is lavender purple; pink and orange are runner-ups
 - 🌈 I am queer but don't exactly know my sexuality
 - 🏳️‍⚧️ I am transfeminine :3
+   - I am also a tomboy >w<
 - 🪟My current OSes are Windows 10 and Linux Mint.
    -   I still use Windows more often for gaming and because all my files persist, though that may change the longer I use Linux for
 - 🎨 Terraria is my most-played game, and my inspiration for pixel art.
 - 👩‍🎨 Pixel Artist for 5 years
 - 🖥️ I own an iPad that was meant for drawing, but my stylus broke so I play rhythm games on it (Phigros and Project Sekai)
-- 🦊 Foxgirl for 1 year
-   - If you want to be specific, I am a kitsune girl 
+- 🐝 Hybrid Beecat/Beefox
+  - The choice is yours to decide whether I am a beecat or beefox
 - 🌼 My favourite Super Mario Bros. character is Daisy
 - 🐇 The Sanrio rabbit hole has taken me and my two cousins in it
-- 🩷 Taken by the love of my life
 
   <3
 <!---
