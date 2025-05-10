@@ -36,8 +36,6 @@ I have been programming for around 6 years, modding games for 4 years, and web d
   - The choice is yours to decide whether I am a beecat or beefox
 - 🌼 My favourite Super Mario Bros. character is Daisy
 - 🐇 The Sanrio rabbit hole has taken me and my two cousins in it
-
-  <3
 <!---
 KitsunAbigail/KitsunAbigail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
