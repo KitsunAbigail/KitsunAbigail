@@ -18,7 +18,7 @@ I have been programming for around 6 years, modding games for 4 years, and web d
  Here's a good list of fun facts about me:
 
 - 🔧 Rust learner
-- 📜 Python and Javascript programmer
+- 📜 Python and JavaScript programmer
    - And I'm still learning more :3
 - 🐱 Spent way too much time making surprisingly high-quality games on Scratch
   - Sucks that I can't share them because the account it's from is my deadname
@@ -32,8 +32,7 @@ I have been programming for around 6 years, modding games for 4 years, and web d
 - 🎨 Terraria is my most-played game, and my inspiration for pixel art.
 - 👩‍🎨 Pixel Artist for 5 years
 - 🖥️ I own an iPad that was meant for drawing, but my stylus broke so I play rhythm games on it (Phigros and Project Sekai)
-- 🐝 Hybrid Beecat/Beefox
-  - The choice is yours to decide whether I am a beecat or beefox
+- 🐝 Hybrid Beecat
 - 🌼 My favourite Super Mario Bros. character is Daisy
 - 🐇 The Sanrio rabbit hole has taken me and my two cousins in it
 <!---
