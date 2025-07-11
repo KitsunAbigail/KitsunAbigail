@@ -12,6 +12,13 @@
 █▓▓▓▓  █▓▓▓▓ █▓▓▓▓▓▓▓▓▓▓█ █▓▓▓▓▓▓▓▓▓▓█    █▓▓▓▓▓    █▓▓▓▓▓▓▓▓▓▓▓
 █████  █████ ███████████  ███████████     ██████    ████████████
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitsunAbigail)](https://github.com/anuraghazra/github-readme-stats)
+
+yikes...
+
+
+
+
 I am an avid, learning and curious programmer (and artist) and I go to great lengths to learn the ins and outs of everything.
 I have been programming for around 6 years, modding games for 4 years, and web designing for 1 year (and a half.)
 
