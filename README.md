@@ -1,5 +1,5 @@
 ```
-█▓▓▓▓▓▓▓▓▓▓▓ █▓▓▓▓▓▓▓▓▓▓  █▓▓▓▓▓▓▓▓▓▓    █▓▓  █▓▓   █▓▓▓▓▓▓▓▓▓▓▓ I am an avid learning and curious programmer (and artist) and
+█▓▓▓▓▓▓▓▓▓▓▓ █▓▓▓▓▓▓▓▓▓▓  █▓▓▓▓▓▓▓▓▓▓    █▓▓  █▓▓   █▓▓▓▓▓▓▓▓▓▓▓ Avid learning and curious programmer (and artist)
 █▓         ▓ █▓         ▓ █▓         ▓  █▓░░▓█▓ ░▓  █▓         ▓ I go to great lengths to learn the ins and outs of everything.
 █▓  ▓▓▓▓▓  ▓ █▓ ▓▓▓▓▓▓▓ ▓ █▓ ▓▓▓▓▓▓▓ ▓ █▓░  ░▓   ░▓ █▓  ▓▓▓▓▓▓▓▓ Six-year programmer
 █▓  ▓░░░▓  ▓ █▓ ▓▓▓▓▓▓▓ ▓ █▓ ▓▓▓▓▓▓▓ ▓ █▓▒░     ░▒▓ █▓  ▓███████ 
